@@ -63,6 +63,3 @@ We would like to express our gratitude to the following platforms for their inva
 - Gemini
 - Medium
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
